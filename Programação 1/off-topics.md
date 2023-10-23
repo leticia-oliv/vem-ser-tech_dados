@@ -5,7 +5,9 @@ mas não estão diretamente relacionadas ao conteúdo principal do curso ou ao t
 
 ## Hash-Map
 
-Texto sobre o tópico 1...
+* Hash-map (Tabela de Dispersão):
+É uma estrutura de dados que utiliza uma função de hash para associar chaves a valores.
+Isso permite a recuperação eficiente de valores com base nas chaves, em comparação com métodos de busca lineares.
 
 ## Título do Tópico 2
 
