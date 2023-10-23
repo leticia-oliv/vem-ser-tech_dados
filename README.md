@@ -9,3 +9,9 @@ Este repositório tem como propósito documentar e compartilhar o meu processo d
 ## Estrutura do Curso
 
 O repositório está organizado de acordo com os diferentes capítulos do curso:
+
+- Lógica de Programação I (PY)
+- Lógica de Programação II (PY)
+- Banco de Dados I
+- Técnicas de Programação I (PY)
+- Visualização com Power BI
