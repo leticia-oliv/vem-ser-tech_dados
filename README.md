@@ -10,7 +10,7 @@ Este repositório tem como propósito documentar e compartilhar o meu processo d
 
 O repositório está organizado de acordo com os diferentes capítulos do curso:
 
-- Lógica de Programação I (PY)
+- [Lógica de Programação I (PY)] (https://github.com/leticia-oliv/vem-ser-tech_dados/tree/main/Programa%C3%A7%C3%A3o%201)
 - Lógica de Programação II (PY)
 - Banco de Dados I
 - Técnicas de Programação I (PY)
